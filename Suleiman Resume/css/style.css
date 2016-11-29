@@ -61,11 +61,12 @@ header {
 .header-text {
   margin-top:0.5em;
   margin-left:1em;
+    font-size: 30px;
 }
 
 header p {
   text-align:center;
-  font-family: "Merriweather";
+  font-family: 'Product Sans', Arial, sans-serif;
   
   margin:0;
   
@@ -77,7 +78,7 @@ header p {
 }
 
 .subtitle {
-  font-family: "Merriweather";
+  font-family: 'Product Sans', Arial, sans-serif;
   padding-top:.3em;
   font-size:0.55em;
   font-weight:500;
@@ -129,7 +130,7 @@ header p {
 }
 
 .content-cat {
-  font-family: "Merriweather";
+  font-family: 'Product Sans', Arial, sans-serif;
   font-variant:small-caps;
   font-weight:300;
   letter-spacing: 1px;
@@ -181,7 +182,7 @@ header p {
 }
 
 .content-text ul li {
-  font-family: "Open Sans";
+  font-family: 'Product Sans', Arial, sans-serif;
   font-size:0.7em;
   
   display:inline-block;
@@ -207,7 +208,7 @@ header p {
 }
 
 .work-listing p {
-  font-family: "Open Sans";
+  font-family: 'Product Sans', Arial, sans-serif;
   font-size:0.7em;
   font-weight:400;
   
@@ -221,7 +222,7 @@ header p {
 }
 
 .work-listing .highlight, .content-text.skills-listing > ul > li > .highlight {
-  font-family: "Open Sans";
+  font-family: 'Product Sans', Arial, sans-serif;
   font-size:0.7em;
   font-weight:400;
   
